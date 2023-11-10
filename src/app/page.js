@@ -15,7 +15,7 @@ export default function Home() {
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-6xl text-center">
         <h1>Coming Soon...</h1>
         <Link
-          href="https://github/bhaktiramadhani"
+          href="https://github.com/bhaktiramadhani"
           className="text-white bg-[#24292F] hover:bg-[#24292F]/100 focus:ring-4 focus:outline-none focus:ring-[#24292F]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-gray-500 dark:hover:bg-[#050708]/30 mt-5"
         >
           <svg
